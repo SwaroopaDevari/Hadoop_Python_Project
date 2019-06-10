@@ -1,0 +1,4 @@
+Name,PhoneNumber,EmailAddress,Address
+Rupa,Swaroopa,3097653476,sample_name@yahoo.com,"['Gailey Ln', 'Bloomington', 'AE', '67895', 'USA']"
+Vishu,Raju,2459871267,sample_name@gmail.com,"['Beverly Hills', 'Los Angeles', 'CA', '98530', 'Canada']"
+John,Jim,5436896388,mymail@gmail.com,"['Current Address', 'Toronto', 'OH', '87623', 'USA']"

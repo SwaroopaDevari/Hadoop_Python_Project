@@ -1,0 +1,41 @@
+<State>
+<Owner Id="100">
+	<Name>Rupa</Name>
+	<NickName>Swaroopa</NickName>   
+	<PhoneNumber>3097653476</PhoneNumber>
+	<EmailAddress>sample_name@yahoo.com</EmailAddress>
+	<Address>
+		<Street>Gailey Ln</Street>
+		<City>Bloomington</City>
+		<StateCode>AE</StateCode>
+		<PostalCode>67895</PostalCode>
+		<Country>USA</Country>
+	</Address>
+</Owner>
+<Owner Id="101">
+	<Name>Vishu</Name>
+	<NickName>Raju</NickName>        
+	<PhoneNumber>2459871267</PhoneNumber>
+	<EmailAddress>sample_name@gmail.com</EmailAddress>
+	<Address>
+		<Street>Beverly Hills</Street>
+		<City>Los Angeles</City>
+		<StateCode>CA</StateCode>
+		<PostalCode>98530</PostalCode>
+		<Country>Canada</Country>
+	</Address>
+</Owner>
+	<Owner Id="103">
+	<Name>John</Name>
+	<NickName>Jim</NickName>
+	<PhoneNumber>5436896388</PhoneNumber>
+	<EmailAddress>mymail@gmail.com</EmailAddress>
+	<Address>
+		<Street>Current Address</Street>
+		<City>Toronto</City>
+		<StateCode>OH</StateCode>
+		<PostalCode>87624</PostalCode>
+		<Country>USA</Country>
+	</Address>
+</Owner>
+</State>
